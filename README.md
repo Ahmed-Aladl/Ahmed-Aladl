@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi, I'm Kareem Elbalshy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Ahmed Essam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;MERN+Stack+Developer" alt="Typing SVG" />
@@ -8,41 +8,41 @@
 </p>
 
 - 🌱 I’m currently working as a **MERN stack Developer**
-- 📫 How to reach me: **kareemelbalshe1234@gmail.com**
+- 📫 How to reach me: **ahmed.essam.aladl@gmail.com**
 
 ## Social Media
 <div align="center">
-  <a href="https://github.com/kareemelbalshe" style="display:block;">
+  <a href="https://github.com/Ahmed-Aladl" style="display:block;">
     <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' /> 
   </a>
-  <a href="https://www.linkedin.com/in/kareem-elbalshy-727516221/" style="display:block">
+  <a href="https://www.linkedin.com/in/ae0aa5/" style="display:block">
     <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' /> 
   </a>
   <a href="https://www.facebook.com/profile.php?id=100022210471462" style="display:block">
     <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' /> 
   </a>
-  <a href="https://www.instagram.com/kareem_elbalshe/" style="display:block">
+  <a href="https://www.instagram.com/Ahmed-Aladl/" style="display:block">
     <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' /> 
   </a>
-  <a href="https://twitter.com/kareem_Elbalshe" style="display:block">
+  <a href="https://twitter.com/Ahmed-Aladl" style="display:block">
     <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' /> 
   </a>
-  <a href="https://kareemelbalshe.github.io/kareemelbalshe/" style="display:block">
+  <a href="https://Ahmed-Aladl.github.io/Ahmed-Aladl/" style="display:block">
     <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' /> 
   </a>
 </div>
 
 ## GitHub Profile Trophy
-<p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=kareemelbalshe" alt="Elbalshy" /></p>
+<p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Aladl" alt="Elbalshy" /></p>
 
 ## 💻 GitHub Profile Stats
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kareemelbalshe&show_icons=true&count_private=true" alt="Elbalshy" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Aladl&show_icons=true&count_private=true" alt="Elbalshy" /></p>
 
 ## Most Used Languages
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemelbalshe" alt="Elbalshy" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Aladl" alt="Elbalshy" /></p>
 
 ## 👉 Streak Stats
-<p align="center"><img alt="GitHub Readme Streak Stats" src="https://streak-stats.demolab.com/?user=kareemelbalshe" style="display: block;"></p>
+<p align="center"><img alt="GitHub Readme Streak Stats" src="https://streak-stats.demolab.com/?user=Ahmed-Aladl" style="display: block;"></p>
 
 ## 📋 Programming Languages:
 <p align="center">
