@@ -39,7 +39,7 @@
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Aladl&show_icons=true&count_private=true" alt="Elbalshy" /></p>
 
 ## Most Used Languages
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Aladl" alt="Elbalshy" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Aladl" alt="Ahmed-Aladl" /></p>
 
 ## 👉 Streak Stats
 <p align="center"><img alt="GitHub Readme Streak Stats" src="https://streak-stats.demolab.com/?user=Ahmed-Aladl" style="display: block;"></p>
