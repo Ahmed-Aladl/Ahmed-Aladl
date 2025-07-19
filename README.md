@@ -9,29 +9,20 @@
 
 - 🌱 I’m currently working as a **MERN stack Developer**
 - 📫 How to reach me: **ahmed.essam.aladl@gmail.com**
-/*
+<!--
 ## Social Media
 <div align="center">
   <a href="https://github.com/Ahmed-Aladl" style="display:block;">
     <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' /> 
   </a>
-  <a href="https://www.linkedin.com/in/ae0aa5/" style="display:block">
+  <a href="https://www.linkedin.com/in/ae05/" style="display:block">
     <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' /> 
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100022210471462" style="display:block">
-    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' /> 
-  </a>
-  <a href="https://www.instagram.com/Ahmed-Aladl/" style="display:block">
-    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' /> 
-  </a>
-  <a href="https://twitter.com/Ahmed-Aladl" style="display:block">
-    <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' /> 
   </a>
   <a href="https://Ahmed-Aladl.github.io/Ahmed-Aladl/" style="display:block">
     <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' /> 
   </a>
 </div>
-*/
+!-->
 ## GitHub Profile Trophy
 <p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Aladl" alt="Elbalshy" /></p>
 
