@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working as a **MERN stack Developer**
 - 📫 How to reach me: **ahmed.essam.aladl@gmail.com**
-
+/*
 ## Social Media
 <div align="center">
   <a href="https://github.com/Ahmed-Aladl" style="display:block;">
@@ -31,7 +31,7 @@
     <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' /> 
   </a>
 </div>
-
+*/
 ## GitHub Profile Trophy
 <p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Aladl" alt="Elbalshy" /></p>
 
