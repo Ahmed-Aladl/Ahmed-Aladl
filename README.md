@@ -3,11 +3,11 @@
 <h1 align="center">Hi, I'm Ahmed Essam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;MERN+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Computers+&+AI+Graduate;.Net+Developer" alt="Typing SVG" />
   </a>
 </p>
 
-- 🌱 I’m currently working as a **MERN stack Developer** 
+- 🌱 I’m currently working as a **.Net Developer** 
 - 📫 How to reach me: **ahmed.essam.aladl@gmail.com**
 <!--
 ## Social Media
@@ -24,13 +24,13 @@
 </div>
 !-->
 ## GitHub Profile Trophy
-<p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Aladl" alt="Elbalshy" /></p>
+<p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Aladl" alt="Ahmed Essam" /></p>
 
 ## 💻 GitHub Profile Stats
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Aladl&show_icons=true&count_private=true" alt="Elbalshy" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Aladl&show_icons=true&count_private=true" alt="Ahmed Essam" /></p>
 
 ## Most Used Languages
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Aladl" alt="Ahmed-Aladl" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Aladl" alt="Ahmed Essam" /></p>
 
 ## 👉 Streak Stats
 <p align="center"><img alt="GitHub Readme Streak Stats" src="https://streak-stats.demolab.com/?user=Ahmed-Aladl" style="display: block;"></p>
@@ -44,18 +44,7 @@
 </p>
 
 ## 📚 Frameworks and Libraries:
-<p align="center">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
-  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=.net&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"/> <img src="https://img.shields.io/badge/NgRx-8A2BE2?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> </p>
 
 ## 💾 Databases and ORM:
 <p align="center">
