@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Ahmed Essam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Computers+&+AI+Graduate;.Net+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Computers+and+AI+Graduate;.Net+Developer" alt="Typing SVG" />
   </a>
 </p>
 
